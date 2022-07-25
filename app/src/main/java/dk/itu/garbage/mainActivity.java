@@ -6,7 +6,7 @@ import android.content.res.Configuration;
 import android.os.Bundle;
 
 public class mainActivity extends AppCompatActivity {
-    //Shopping V5 using ViewModel and Live Data
+    //Garbage V6 using ViewModel and Live Data
 
     private FragmentManager fm;
     Fragment fragmentUI, fragmentList;

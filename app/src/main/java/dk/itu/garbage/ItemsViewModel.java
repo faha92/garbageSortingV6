@@ -3,6 +3,9 @@ package dk.itu.garbage;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
+
+// mutable live data
+
 public class ItemsViewModel extends ViewModel {
   private static MutableLiveData<ItemsDB> items;
 
